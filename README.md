@@ -55,10 +55,6 @@
 </head>
 <body>
 
-<header>
-    <h1>Portfolio</h1>
-</header>
-
 <nav>
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
