@@ -44,7 +44,7 @@
         .linkedin-icon {
             width: 30px; /* Adjust the size as needed */
             height: auto;
-            margin-right: 10px; /* Add some spacing */
+            margin-right: 20px; /* Add some spacing */
         }
 
 /* Center and style the footer */
