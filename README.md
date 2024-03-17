@@ -11,7 +11,7 @@
             background-color: #f0f0f0;
             color: #333;
         }
-  
+
         nav {
             background-color: #A0F400;
             color: #333;
@@ -26,7 +26,7 @@
         nav a:hover {
             color: #A0F400; /* Change link color to green on hover */
         }
-        
+
         section {
             padding: 20px;
         }
@@ -40,7 +40,7 @@
         .project h2 {
             margin-top: 0;
         }
-        
+
         /* Change text color of the About Me section */
         #about {
             color: #000; /* Change text color to black */
@@ -59,6 +59,7 @@
             padding: 10px;
             background-color: #A0F400;
             color: #000;
+            border-radius: 10px; /* Curved corners */
         }
     </style>
 </head>
