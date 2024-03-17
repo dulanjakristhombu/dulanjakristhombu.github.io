@@ -10,9 +10,9 @@
             padding: 0;
             background-color: #E5E4E2; /* Set background color to black */
             color: #000; /* Change text color to white */
-            margin: 0 10px;
+        
 
-            
+      
         }
 
         nav {
@@ -38,7 +38,7 @@
             border: 1px solid #ccc;
             border-radius: 10px; /* Curved corners */
             padding: 10px;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
             background-color: #fff;
         }
         .project h2 {
