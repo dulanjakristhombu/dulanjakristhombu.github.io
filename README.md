@@ -46,17 +46,19 @@
             color: #000; /* Change text color to black */
         }
 
-       /* Style the LinkedIn icon */
-        .linkedin-icon,
-        .github-icon,
-        .medium-icon,
-        .email-icon {
-            width: 40px; /* Adjust the size as needed */
-            height: 40px;
+        /* Style the LinkedIn icon */
+        a[href="https://www.linkedin.com/in/your-linkedin-profile"] {
+            background-color: #FF0000; /* Change background color to red */
+            display: inline-block; /* Ensure the background color covers the entire area of the anchor */
+            padding: 5px; /* Add some padding to make the background visible */
+            border-radius: 50%; /* Make the background circular */
+        }
+
+        /* Style the LinkedIn icon within the anchor */
+        .linkedin-icon {
+            width: 30px; /* Adjust the size as needed */
+            height: auto;
             margin-right: 5px; /* Add some spacing */
-            background-color: red; /* Set background color to red */
-            border-radius: 50%; /* Make the icons circular */
-            padding: 5px; /* Add some padding */
         }
 
         /* Center and style the footer */
@@ -114,7 +116,7 @@
 
     <!-- LinkedIn Icon with Profile Link -->
     <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-        <img src="linkedin_icon.png" alt="LinkedIn" width="40" height="40">
+        <img src="linkedin_icon.png" alt="LinkedIn" class="linkedin-icon" width="40" height="40">
     </a>
 
     <!-- GitHub Icon with Profile Link -->
