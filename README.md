@@ -16,14 +16,14 @@
 
         nav {
             background-color: #A0F400;
-           color: #000;
+            color: #000;
             padding: 20px 0;
             text-align: center;
             border-radius: 10px; /* Curved corners */
         }
         nav a {
             text-decoration: none;
-            color: #fff;
+            color: #000;
             margin: 0 10px;
         }
         nav a:hover {
