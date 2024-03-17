@@ -8,8 +8,10 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
-            color: #333;
+            background-color: #000; /* Set background color to black */
+            color: #fff; /* Change text color to white */
+
+            
         }
 
         nav {
