@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #000; /* Set background color to black */
+            background-color: #292D2D; /* Set background color to black */
             color: #fff; /* Change text color to white */
 
             
