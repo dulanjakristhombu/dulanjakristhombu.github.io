@@ -75,6 +75,7 @@
 
 <section id="skills">
     <h2>Skills</h2>
+      <div class="project">
     <p>Here are some of the skills I possess:</p>
     <ul>
         <li>Java</li>
@@ -84,6 +85,8 @@
         <li>RESTful APIs</li>
         <!-- Add more skills as needed -->
     </ul>
+          
+</div>
 </section>
 
 <section id="projects">
