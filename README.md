@@ -10,6 +10,7 @@
             padding: 0;
             background-color: #E5E4E2; /* Set background color to black */
             color: #000; /* Change text color to white */
+            margin: 0 10px;
 
             
         }
