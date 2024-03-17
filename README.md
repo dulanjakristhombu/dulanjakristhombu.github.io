@@ -47,14 +47,6 @@
         }
 
         /* Style the LinkedIn icon */
-        a[href="https://www.linkedin.com/in/your-linkedin-profile"] {
-            background-color: #FF0000; /* Change background color to red */
-            display: inline-block; /* Ensure the background color covers the entire area of the anchor */
-            padding: 5px; /* Add some padding to make the background visible */
-            border-radius: 50%; /* Make the background circular */
-        }
-
-        /* Style the LinkedIn icon within the anchor */
         .linkedin-icon {
             width: 30px; /* Adjust the size as needed */
             height: auto;
@@ -67,6 +59,14 @@
             padding: 10px;
             background-color: #A0F400;
             color: #000;
+        }
+
+        /* Set background color around icons in contact section to red */
+        #contact a {
+            background-color: red;
+            display: inline-block; /* Ensure the background covers the space around the icons */
+            padding: 5px; /* Add padding for better visibility */
+            border-radius: 50%; /* Make the background circular */
         }
     </style>
 </head>
@@ -116,7 +116,7 @@
 
     <!-- LinkedIn Icon with Profile Link -->
     <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-        <img src="linkedin_icon.png" alt="LinkedIn" class="linkedin-icon" width="40" height="40">
+        <img src="linkedin_icon.png" alt="LinkedIn" width="40" height="40">
     </a>
 
     <!-- GitHub Icon with Profile Link -->
