@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Android Developer Portfolio</title>
+    <title>My Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -17,8 +17,6 @@
             color: #fff;
             padding: 20px;
             text-align: center;
-            border-top-left-radius: 50% 15%;
-            border-top-right-radius: 50% 15%;
         }
         h1 {
             margin: 0;
@@ -61,19 +59,19 @@
 <body>
 
 <header>
-    <h1>Android Developer Portfolio</h1>
+    <h1>My Portfolio</h1>
 </header>
 
 <nav>
-    <a href="#home">Home</a>
+    <a href="#about">About</a>
     <a href="#skills">Skills</a>
     <a href="#projects">Projects</a>
     <a href="#contact">Contact</a>
 </nav>
 
-<section id="home">
-    <h2>Welcome</h2>
-    <p>Welcome to my Android developer portfolio! I'm passionate about creating innovative and user-friendly Android applications.</p>
+<section id="about">
+    <h2>About Me</h2>
+    <p>Welcome to my portfolio! I'm passionate about creating innovative and user-friendly applications.</p>
 </section>
 
 <section id="skills">
@@ -108,7 +106,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2024 Android Developer Portfolio</p>
+    <p>&copy; 2024 My Portfolio</p>
 </footer>
 
 </body>
