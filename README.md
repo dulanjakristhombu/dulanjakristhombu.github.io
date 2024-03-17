@@ -74,7 +74,9 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
+      <div class="project">
+<p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
+      </div>
 </section>
 
 <section id="skills">
