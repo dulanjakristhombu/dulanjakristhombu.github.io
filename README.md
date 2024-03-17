@@ -36,7 +36,7 @@
             margin-bottom: 10px;
             background-color: #fff;
         }
-        .project h2 {
+        .project h1 {
             margin-top: 0;
         }
 
