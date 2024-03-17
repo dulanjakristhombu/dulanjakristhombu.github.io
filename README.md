@@ -105,6 +105,12 @@
 
 <section id="contact">
     <h2>Contact Me</h2>
+<div class="project">
+        <h2>Project 1</h2>
+        <p>Description of Project 1</p>
+  
+
+    
     <p>If you'd like to get in touch, feel free to email me at <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
 
     <!-- LinkedIn Icon with Profile Link -->
@@ -126,6 +132,8 @@
     <a href="mailto:yourname@example.com" target="_blank">
         <img src="email_icon.png" alt="Email" width="40" height="40">
     </a>
+  </div>
+    
 </section>
 
 <footer>
