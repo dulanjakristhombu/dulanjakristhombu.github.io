@@ -103,11 +103,15 @@
     <!-- Add more projects as needed -->
 </section>
 
+
+
+
+
+
 <section id="contact">
     <h2>Contact Me</h2>
 <div class="project">
-        <h2>Project 1</h2>
-        <p>Description of Project 1</p>
+       
   
 
     
