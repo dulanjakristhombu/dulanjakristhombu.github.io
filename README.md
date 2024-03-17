@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -63,28 +63,15 @@
 </header>
 
 <nav>
-    <a href="#about">About</a>
-    <a href="#projects">Projects</a>
+    <a href="#home">Home</a>
     <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
     <a href="#contact">Contact</a>
 </nav>
 
-<section id="about">
-    <h2>About Me</h2>
+<section id="home">
+    <h2>Welcome</h2>
     <p>Welcome to my Android developer portfolio! I'm passionate about creating innovative and user-friendly Android applications.</p>
-</section>
-
-<section id="projects">
-    <h2>Projects</h2>
-    <div class="project">
-        <h2>Project 1</h2>
-        <p>Description of Project 1</p>
-    </div>
-    <div class="project">
-        <h2>Project 2</h2>
-        <p>Description of Project 2</p>
-    </div>
-    <!-- Add more projects as needed -->
 </section>
 
 <section id="skills">
@@ -98,6 +85,19 @@
         <li>RESTful APIs</li>
         <!-- Add more skills as needed -->
     </ul>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+        <h2>Project 1</h2>
+        <p>Description of Project 1</p>
+    </div>
+    <div class="project">
+        <h2>Project 2</h2>
+        <p>Description of Project 2</p>
+    </div>
+    <!-- Add more projects as needed -->
 </section>
 
 <section id="contact">
