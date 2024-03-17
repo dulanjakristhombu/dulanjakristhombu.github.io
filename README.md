@@ -45,10 +45,7 @@
         }
 
         /* Change text color of the About Me section */
-        #about {
-            color: #000; /* Change text color to black */
-        }
-
+        
         /* Style the LinkedIn icon */
         .linkedin-icon {
             width: 30px; /* Adjust the size as needed */
