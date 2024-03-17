@@ -57,7 +57,7 @@
         /* Center and style the footer */
         footer {
             text-align: center;
-            padding: 10px;
+             padding: 20px 0;
             background-color: #A0F400;
             color: #000;
             border-radius: 10px; /* Curved corners */
