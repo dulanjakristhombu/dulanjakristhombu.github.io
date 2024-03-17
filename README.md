@@ -53,6 +53,21 @@
             margin-right: 5px; /* Add some spacing */
         }
     </style>
+
+
+<title>Centered Footer</title>
+<style>
+    footer {
+        text-align: center;
+        background-color: #f0f0f0; /* Background color for the footer */
+        padding: 20px 0; /* Add some padding for better spacing */
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+</style>
+
+    
 </head>
 <body>
 
