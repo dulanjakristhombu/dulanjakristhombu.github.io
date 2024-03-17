@@ -3,22 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title>Android Developer Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
             background-color: #f0f0f0;
+            color: #333;
         }
         header {
-            background-color: #333;
+            background-color: #007bff;
             color: #fff;
             padding: 20px;
             text-align: center;
         }
+        h1 {
+            margin: 0;
+        }
         nav {
-            background-color: #666;
+            background-color: #333;
             color: #fff;
             padding: 10px 0;
             text-align: center;
@@ -31,8 +35,18 @@
         section {
             padding: 20px;
         }
+        .project {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 20px;
+            background-color: #fff;
+        }
+        .project h2 {
+            margin-top: 0;
+        }
         footer {
-            background-color: #333;
+            background-color: #007bff;
             color: #fff;
             text-align: center;
             padding: 10px;
@@ -45,27 +59,44 @@
 <body>
 
 <header>
-    <h1>My Portfolio</h1>
+    <h1>Android Developer Portfolio</h1>
 </header>
 
 <nav>
-    <a href="about">About</a>
+    <a href="#about">About</a>
     <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
     <a href="#contact">Contact</a>
 </nav>
 
 <section id="about">
     <h2>About Me</h2>
-    <p>Welcome to my portfolio! I'm passionate about web development and love creating beautiful and functional websites.</p>
+    <p>Welcome to my Android developer portfolio! I'm passionate about creating innovative and user-friendly Android applications.</p>
 </section>
 
 <section id="projects">
     <h2>Projects</h2>
-    <p>Here are some of my recent projects:</p>
+    <div class="project">
+        <h2>Project 1</h2>
+        <p>Description of Project 1</p>
+    </div>
+    <div class="project">
+        <h2>Project 2</h2>
+        <p>Description of Project 2</p>
+    </div>
+    <!-- Add more projects as needed -->
+</section>
+
+<section id="skills">
+    <h2>Skills</h2>
+    <p>Here are some of the skills I possess:</p>
     <ul>
-        <li><a href="#">Project 1</a></li>
-        <li><a href="#">Project 2</a></li>
-        <li><a href="#">Project 3</a></li>
+        <li>Java</li>
+        <li>Kotlin</li>
+        <li>Android SDK</li>
+        <li>XML</li>
+        <li>RESTful APIs</li>
+        <!-- Add more skills as needed -->
     </ul>
 </section>
 
@@ -75,7 +106,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2024 My Portfolio</p>
+    <p>&copy; 2024 Android Developer Portfolio</p>
 </footer>
 
 </body>
