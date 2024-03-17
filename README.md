@@ -52,25 +52,17 @@
             height: auto;
             margin-right: 5px; /* Add some spacing */
         }
+
+        /* Center and style the footer */
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #A0F400;
+            color: #000;
+        }
     </style>
-
-
-<title>Centered Footer</title>
-<style>
-    footer {
-        text-align: center;
-        background-color: #f0f0f0; /* Background color for the footer */
-        padding: 20px 0; /* Add some padding for better spacing */
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-    }
-</style>
-
-    
 </head>
 <body>
-
 
 <nav>
     <a href="#about">About</a>
@@ -114,8 +106,6 @@
     <h2>Contact Me</h2>
     <p>If you'd like to get in touch, feel free to email me at <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
 
-   
-
     <!-- LinkedIn Icon with Profile Link -->
     <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
         <img src="linkedin_icon.png" alt="LinkedIn" width="40" height="40">
@@ -131,17 +121,14 @@
         <img src="medium_icon.png" alt="Medium" width="40" height="40">
     </a>
 
- <!-- Email Icon with Email Link -->
+    <!-- Email Icon with Email Link -->
     <a href="mailto:yourname@example.com" target="_blank">
         <img src="email_icon.png" alt="Email" width="40" height="40">
     </a>
-
 </section>
 
-
-
 <footer>
-    <p>&copy; 2024 DULANJA KRISTHOMBU </p>
+    <p>&copy; 2024 Dulanja Kristhombu</p>
 </footer>
 
 </body>
