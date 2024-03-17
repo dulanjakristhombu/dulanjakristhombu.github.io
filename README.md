@@ -27,7 +27,7 @@
             margin: 0 10px;
         }
         nav a:hover {
-            color: #A0F400; /* Change link color to green on hover */
+            color: #fff; /* Change link color to green on hover */
         }
 
         section {
