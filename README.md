@@ -17,6 +17,7 @@
             color: #333;
             padding: 20px 0;
             text-align: center;
+             border-radius: 10px; /* Curved corners */
         }
         nav a {
             text-decoration: none;
@@ -32,7 +33,7 @@
         }
         .project {
             border: 1px solid #ccc;
-            border-radius: 5px;
+            border-radius: 10px; /* Curved corners */
             padding: 10px;
             margin-bottom: 20px;
             background-color: #fff;
