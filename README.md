@@ -17,6 +17,8 @@
             color: #fff;
             padding: 20px;
             text-align: center;
+            border-top-left-radius: 50% 15%;
+            border-top-right-radius: 50% 15%;
         }
         h1 {
             margin: 0;
