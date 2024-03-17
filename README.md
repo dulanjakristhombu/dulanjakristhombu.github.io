@@ -60,14 +60,6 @@
             background-color: #A0F400;
             color: #000;
         }
-
-        /* Set background color around icons in contact section to red */
-        #contact a {
-            background-color: red;
-            display: inline-block; /* Ensure the background covers the space around the icons */
-            padding: 5px; /* Add padding for better visibility */
-            border-radius: 50%; /* Make the background circular */
-        }
     </style>
 </head>
 <body>
