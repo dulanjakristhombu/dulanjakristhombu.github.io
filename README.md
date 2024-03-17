@@ -3,9 +3,60 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+  
+        nav {
+            background-color: #A0F400;
+            color: #333;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav a {
+            text-decoration: none;
+            color: #fff;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            color: #A0F400; /* Change link color to green on hover */
+        }
+        
+        section {
+            padding: 20px;
+        }
+        .project {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 20px;
+            background-color: #fff;
+        }
+        .project h2 {
+            margin-top: 0;
+        }
+        
+        /* Change text color of the About Me section */
+        #about {
+            color: #000; /* Change text color to black */
+        }
+
+        /* Style the LinkedIn icon */
+        .linkedin-icon {
+            width: 30px; /* Adjust the size as needed */
+            height: auto;
+            margin-right: 5px; /* Add some spacing */
+        }
+    </style>
 </head>
 <body>
-    
+
+
 <nav>
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
@@ -47,7 +98,32 @@
 <section id="contact">
     <h2>Contact Me</h2>
     <p>If you'd like to get in touch, feel free to email me at <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
+
+   
+
+    <!-- LinkedIn Icon with Profile Link -->
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+        <img src="linkedin_icon.png" alt="LinkedIn" width="40" height="40">
+    </a>
+
+    <!-- GitHub Icon with Profile Link -->
+    <a href="https://github.com/your-github-profile" target="_blank">
+        <img src="github_icon.png" alt="GitHub" width="40" height="40">
+    </a>
+
+    <!-- Medium Icon with Blog Link -->
+    <a href="https://medium.com/@your-medium-profile" target="_blank">
+        <img src="medium_icon.png" alt="Medium" width="40" height="40">
+    </a>
+
+ <!-- Email Icon with Email Link -->
+    <a href="mailto:yourname@example.com" target="_blank">
+        <img src="email_icon.png" alt="Email" width="40" height="40">
+    </a>
+
 </section>
+
+
 
 <footer>
     <p>&copy; 2024</p>
