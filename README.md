@@ -46,11 +46,17 @@
             color: #000; /* Change text color to black */
         }
 
-        /* Style the LinkedIn icon */
-        .linkedin-icon {
-            width: 30px; /* Adjust the size as needed */
-            height: auto;
+       /* Style the LinkedIn icon */
+        .linkedin-icon,
+        .github-icon,
+        .medium-icon,
+        .email-icon {
+            width: 40px; /* Adjust the size as needed */
+            height: 40px;
             margin-right: 5px; /* Add some spacing */
+            background-color: red; /* Set background color to red */
+            border-radius: 50%; /* Make the icons circular */
+            padding: 5px; /* Add some padding */
         }
 
         /* Center and style the footer */
