@@ -10,11 +10,7 @@
             padding: 0;
             background-color: #E5E4E2; /* Set background color to black */
             color: #000; /* Change text color to white */
-        
-
-      
         }
-
         nav {
             background-color: #A0F400;
             color: #000;
@@ -30,7 +26,6 @@
         nav a:hover {
             color: #fff; /* Change link color to green on hover */
         }
-
         section {
             padding: 20px;
         }
@@ -45,15 +40,14 @@
             margin-top: 0;
         }
 
-        
-        /* Style the LinkedIn icon */
+/* Style the LinkedIn icon */
         .linkedin-icon {
             width: 30px; /* Adjust the size as needed */
             height: auto;
             margin-right: 10px; /* Add some spacing */
         }
 
-        /* Center and style the footer */
+/* Center and style the footer */
         footer {
            text-align: center;
              padding: 10px 0;
@@ -113,33 +107,24 @@
 <section id="contact">
     <h2>Contact Me</h2>
 <div class="project">
-       
-  
-
-    
     <p>If you'd like to get in touch, feel free to email me at <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
-
-    <!-- LinkedIn Icon with Profile Link -->
+<!-- LinkedIn Icon with Profile Link -->
     <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
         <img src="linkedin_icon.png" alt="LinkedIn" width="40" height="40">
     </a>
-
-    <!-- GitHub Icon with Profile Link -->
+<!-- GitHub Icon with Profile Link -->
     <a href="https://github.com/your-github-profile" target="_blank">
         <img src="github_icon.png" alt="GitHub" width="40" height="40">
     </a>
-
-    <!-- Medium Icon with Blog Link -->
+<!-- Medium Icon with Blog Link -->
     <a href="https://medium.com/@your-medium-profile" target="_blank">
         <img src="medium_icon.png" alt="Medium" width="40" height="40">
     </a>
-
-    <!-- Email Icon with Email Link -->
+<!-- Email Icon with Email Link -->
     <a href="mailto:yourname@example.com" target="_blank">
         <img src="email_icon.png" alt="Email" width="40" height="40">
     </a>
-  </div>
-    
+  </div> 
 </section>
 
 <footer>
