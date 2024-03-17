@@ -14,10 +14,10 @@
 
         nav {
             background-color: #A0F400;
-            color: #333;
+           color: #000;
             padding: 20px 0;
             text-align: center;
-             border-radius: 10px; /* Curved corners */
+            border-radius: 10px; /* Curved corners */
         }
         nav a {
             text-decoration: none;
