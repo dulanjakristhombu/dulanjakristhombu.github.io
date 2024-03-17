@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title>Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -17,9 +17,6 @@
             color: #fff;
             padding: 20px;
             text-align: center;
-        }
-        h1 {
-            margin: 0;
         }
         nav {
             background-color: #333;
@@ -59,7 +56,7 @@
 <body>
 
 <header>
-    <h1>My Portfolio</h1>
+    <h1>Portfolio</h1>
 </header>
 
 <nav>
@@ -71,7 +68,7 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>Welcome to my portfolio! I'm passionate about creating innovative and user-friendly applications.</p>
+    <p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
 </section>
 
 <section id="skills">
@@ -106,7 +103,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2024 My Portfolio</p>
+    <p>&copy; 2024</p>
 </footer>
 
 </body>
