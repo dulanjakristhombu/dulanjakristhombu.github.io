@@ -102,12 +102,17 @@
          
     <p>Here are some of the skills I possess:</p>
     <ul>
-        <li>Java</li>
         <li>Kotlin</li>
         <li>Android SDK</li>
-        <li>XML</li>
-        <li>RESTful APIs</li>
-        <!-- Add more skills as needed -->
+        <li>Web APIs</li>
+        <li>Firebase</li>
+        <li>SQLite</li>
+        <li>Payment Gateways</li>
+        <li>Material Design</li>
+        <li>Git</li>
+       
+      
+       
     </ul>
           
 </div>
