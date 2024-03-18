@@ -8,19 +8,19 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #E5E4E2; /* Set background color to black */
+            background-color: #E5E4E2; 
             background-image: url('bg.jpeg');
-            background-size: cover; /* Cover the entire viewport */
-            background-position: center; /* Center the background image */
-            background-repeat: no-repeat; /* Do not repeat the background image */
-            color: #000; /* Change text color to white */
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat; 
+            color: #000;
         }
         nav {
             #background-color: #000;
             #color: #fff;
             #padding: 20px 0;
             text-align: center;
-            border-radius: 10px; /* Curved corners */
+            border-radius: 10px; 
             font-size: 20px;
             font-weight: bold;
         }
@@ -30,14 +30,14 @@
             margin: 0 10px;
         }
         nav a:hover {
-            color: #fff; /* Change link color to green on hover */
+            color: #fff; 
         }
         section {
             padding: 20px;
         }
         .project {
             border: 1px solid #ccc;
-            border-radius: 10px; /* Curved corners */
+            border-radius: 10px; 
             padding: 10px;
             margin-bottom: 10px;
             background-color: #fff;
@@ -46,34 +46,26 @@
             margin-top: 0;
         }
         .about-image {
-  
-    
-   display: block; /* Ensures the image behaves as a block element */
-    margin: 0 auto 20px; /* Adjust margin as needed */
-    max-width: 100%; /* Ensure the image does not exceed its container's width */
-    border-radius: 10px; /* Add rounded corners to the image */
-    background-color: red; /* Set background color to red */
-          
-}
-
-
-    
-/* Style the LinkedIn icon */
-        .linkedin-icon {
-            width: 30px; /* Adjust the size as needed */
-            height: auto;
-            margin-right: 20px; /* Add some spacing */
+            display: block; 
+            margin: 0 auto 20px; 
+            max-width: 100%; 
+            border-radius: 10px; 
+            background-color: red; 
         }
-
-/* Center and style the footer */
+        .linkedin-icon {
+            width: 30px; 
+            height: auto;
+            margin-right: 20px; 
+        }
         footer {
-           text-align: center;
-             padding: 10px 0;
+            text-align: center;
+            padding: 10px 0;
             background-color: #000;
             color: #fff;
-            border-radius: 10px; /* Curved corners */
+            border-radius: 10px; 
         }
     </style>
+    
 </head>
 <body>
 
@@ -88,7 +80,6 @@
     <img src="r.png" alt="About Me" class="about-image">
 </section>
 
-
 <section id="about">
     <h2>About Me</h2>
       <div class="project">
@@ -99,23 +90,18 @@
 <section id="skills">
     <h2>Skills</h2>
       <div class="project">
-         
-    <p>Here are some of the skills I possess:</p>
-    <ul>
-        <li>Kotlin</li>
-        <li>Android SDK</li>
-        <li>Web APIs</li>
-        <li>Firebase</li>
-        <li>SQLite</li>
-        <li>Payment Gateways</li>
-        <li>Material Design</li>
-        <li>Git</li>
-       
-      
-       
-    </ul>
-          
-</div>
+        <p>Here are some of the skills I possess:</p>
+          <ul>
+              <li>Kotlin</li>
+              <li>Android SDK</li>
+              <li>Web APIs</li>
+              <li>Firebase</li>
+              <li>SQLite</li>
+              <li>Payment Gateways</li>
+              <li>Material Design</li>
+              <li>Git</li>
+          </ul>    
+      </div>
 </section>
 
 <section id="projects">
@@ -128,31 +114,21 @@
         <h2>Project 2</h2>
         <p>Description of Project 2</p>
     </div>
-    <!-- Add more projects as needed -->
 </section>
-
-
-
-
-
 
 <section id="contact">
     <h2>Contact Me</h2>
 <div class="project">
     <p>If you'd like to get in touch, feel free to email me at <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
-<!-- LinkedIn Icon with Profile Link -->
-    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <a href="linkedin.com/in/dulanja-kristhombu-aa04bb222" target="_blank">
         <img src="linkedin_icon.png" alt="LinkedIn" width="40" height="40">
     </a>
-<!-- GitHub Icon with Profile Link -->
-    <a href="https://github.com/your-github-profile" target="_blank">
+    <a href="https://github.com/dulanjakristhombu" target="_blank">
         <img src="github_icon.png" alt="GitHub" width="40" height="40">
     </a>
-<!-- Medium Icon with Blog Link -->
-    <a href="https://medium.com/@your-medium-profile" target="_blank">
+    <a href="https://medium.com/@dulanja.kristhombu" target="_blank">
         <img src="medium_icon.png" alt="Medium" width="40" height="40">
     </a>
-<!-- Email Icon with Email Link -->
     <a href="mailto:yourname@example.com" target="_blank">
         <img src="email_icon.png" alt="Email" width="40" height="40">
     </a>
