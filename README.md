@@ -67,10 +67,11 @@
 </nav>
 
 <section id="about">
+       <img src="dev.webp" alt="Your Image" style="float: left;  width: auto; height: auto;">
     <h2>About Me</h2>
       <div class="project">
 <p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
-            <img src="dev.webp" alt="Your Image" style="float: left; margin-right: 0px; width: auto; height: auto;">
+         
       </div>
 </section>
 
