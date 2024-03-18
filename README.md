@@ -40,10 +40,7 @@
             margin-top: 0;
         }
 
-        .image{
-        <img src="dev.webp" alt="Your Image" style="float: left;  width: auto; height: auto;">
-        }
-
+    
 /* Style the LinkedIn icon */
         .linkedin-icon {
             width: 30px; /* Adjust the size as needed */
