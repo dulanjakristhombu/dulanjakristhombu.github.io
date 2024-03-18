@@ -62,8 +62,8 @@
         footer {
            text-align: center;
              padding: 10px 0;
-            background-color: #A0F400;
-            color: #000;
+            background-color: #000;
+            color: #fff;
             border-radius: 10px; /* Curved corners */
         }
     </style>
