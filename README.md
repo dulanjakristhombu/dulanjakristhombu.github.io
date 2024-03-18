@@ -21,7 +21,8 @@
             #padding: 20px 0;
             text-align: center;
             border-radius: 10px; /* Curved corners */
-            font-size: 18px;
+            font-size: 20px;
+             font-weight: bold;
         }
         nav a {
             text-decoration: none;
