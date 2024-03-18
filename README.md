@@ -50,6 +50,7 @@
     margin: 0 auto 20px; /* Adjust margin as needed */
     #max-width: 100%; /* Ensure the image does not exceed its container's width */
     #border-radius: 10px; /* Add rounded corners to the image */
+             background-color: red;
 }
 
 
@@ -84,12 +85,11 @@
     <img src="r.png" alt="About Me" class="about-image">
 </section>
 
+
 <section id="about">
-  
     <h2>About Me</h2>
       <div class="project">
 <p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
-         
       </div>
 </section>
 
