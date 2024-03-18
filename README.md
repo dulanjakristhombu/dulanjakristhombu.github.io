@@ -9,20 +9,14 @@
             margin: 0;
             padding: 0;
             background-color: #E5E4E2; /* Set background color to black */
-
-             background-image: url('bg.jpeg');
-        /* Background image size and positioning */
-        background-size: cover; /* Cover the entire viewport */
-        background-position: center; /* Center the background image */
-        background-repeat: no-repeat; /* Do not repeat the background image */
-       
-
-
-            
+            background-image: url('bg.jpeg');
+            background-size: cover; /* Cover the entire viewport */
+            background-position: center; /* Center the background image */
+            background-repeat: no-repeat; /* Do not repeat the background image */
             color: #000; /* Change text color to white */
         }
         nav {
-            background-color: #000;
+            #background-color: #000;
             color: #fff;
             padding: 20px 0;
             text-align: center;
