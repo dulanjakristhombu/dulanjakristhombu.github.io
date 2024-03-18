@@ -22,7 +22,7 @@
             text-align: center;
             border-radius: 10px; /* Curved corners */
             font-size: 20px;
-             font-weight: bold;
+            font-weight: bold;
         }
         nav a {
             text-decoration: none;
