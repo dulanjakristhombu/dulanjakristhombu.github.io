@@ -48,8 +48,11 @@
         .about-image {
   
     
-    #max-width: 100%; /* Ensure the image does not exceed its container's width */
-    #border-radius: 10px; /* Add rounded corners to the image */
+   display: block; /* Ensures the image behaves as a block element */
+    margin: 0 auto 20px; /* Adjust margin as needed */
+    max-width: 100%; /* Ensure the image does not exceed its container's width */
+    border-radius: 10px; /* Add rounded corners to the image */
+    background-color: red; /* Set background color to red */
           
 }
 
