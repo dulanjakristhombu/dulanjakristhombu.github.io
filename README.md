@@ -45,6 +45,13 @@
         .project h1 {
             margin-top: 0;
         }
+        .about-image {
+    display: block;
+    margin: 0 auto 20px; /* Adjust margin as needed */
+    max-width: 100%; /* Ensure the image does not exceed its container's width */
+    border-radius: 10px; /* Add rounded corners to the image */
+}
+
 
     
 /* Style the LinkedIn icon */
@@ -74,6 +81,7 @@
 </nav>
 
 <section id="about">
+    <img src="r.png" alt="About Me" class="about-image">
     <h2>About Me</h2>
       <div class="project">
 <p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
