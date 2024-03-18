@@ -144,7 +144,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2024 </p>
+    <p>&copy; 2024. All Rights Reserved. </p>
 </footer>
 
 </body>
