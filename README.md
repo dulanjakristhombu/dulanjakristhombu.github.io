@@ -66,8 +66,12 @@
     <a href="#contact">Contact</a>
 </nav>
 
-<section id="about">
+<section id="abou">
        <img src="dev.webp" alt="Your Image" style="float: left;  width: auto; height: auto;">
+</section>
+
+
+<section id="about">
     <h2>About Me</h2>
       <div class="project">
 <p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
