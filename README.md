@@ -132,7 +132,7 @@
     <a href="mailto:yourname@example.com" target="_blank">
         <img src="email_icon.png" alt="Email" width="40" height="40">
     </a>
-  </div> 
+  </div>
 </section>
 
 <footer>
