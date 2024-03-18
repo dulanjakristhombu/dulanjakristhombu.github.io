@@ -92,7 +92,7 @@
 <section id="about">
     <h2>About Me</h2>
       <div class="project">
-<p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
+<p>Hello, I'm Dulanja, an experienced Android app developer passionate about creating innovative solutions that enhance user experiences and streamline processes. With a keen eye for detail and a dedication to staying current with the latest technologies, I strive to craft high-quality applications that make a meaningful impact.</p>
       </div>
 </section>
 
