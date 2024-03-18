@@ -10,7 +10,7 @@
             padding: 0;
             background-color: #E5E4E2; /* Set background color to black */
 
-             background-image: url('bakground.jpg');
+             background-image: url('bg.jpeg');
         /* Background image size and positioning */
         background-size: cover; /* Cover the entire viewport */
         background-position: center; /* Center the background image */
