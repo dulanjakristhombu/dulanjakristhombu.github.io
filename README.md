@@ -22,8 +22,8 @@
             color: #000; /* Change text color to white */
         }
         nav {
-            background-color: #A0F400;
-            color: #000;
+            background-color: #000;
+            color: #fff;
             padding: 20px 0;
             text-align: center;
             border-radius: 10px; /* Curved corners */
