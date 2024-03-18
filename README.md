@@ -9,6 +9,16 @@
             margin: 0;
             padding: 0;
             background-color: #E5E4E2; /* Set background color to black */
+
+             background-image: url('dev.webp');
+        /* Background image size and positioning */
+        background-size: cover; /* Cover the entire viewport */
+        background-position: center; /* Center the background image */
+        background-repeat: no-repeat; /* Do not repeat the background image */
+        color: #000;
+
+
+            
             color: #000; /* Change text color to white */
         }
         nav {
