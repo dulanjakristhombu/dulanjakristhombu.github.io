@@ -74,14 +74,19 @@
 <body>
 
 <nav>
+    <a href="#imge">About</a>
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
     <a href="#projects">Projects</a>
     <a href="#contact">Contact</a>
 </nav>
 
-<section id="about">
+<section id="imge">
     <img src="r.png" alt="About Me" class="about-image">
+</section>
+
+<section id="about">
+  
     <h2>About Me</h2>
       <div class="project">
 <p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
