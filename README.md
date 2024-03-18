@@ -17,8 +17,8 @@
         }
         nav {
             #background-color: #000;
-            color: #fff;
-            padding: 20px 0;
+            #color: #fff;
+            #padding: 20px 0;
             text-align: center;
             border-radius: 10px; /* Curved corners */
         }
