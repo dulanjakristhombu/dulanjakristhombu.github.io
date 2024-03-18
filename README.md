@@ -15,7 +15,7 @@
         background-size: cover; /* Cover the entire viewport */
         background-position: center; /* Center the background image */
         background-repeat: no-repeat; /* Do not repeat the background image */
-        color: #000;
+       
 
 
             
