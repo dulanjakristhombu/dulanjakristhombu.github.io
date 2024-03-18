@@ -76,6 +76,7 @@
 <section id="skills">
     <h2>Skills</h2>
       <div class="project">
+           <img src="dev.webp" alt="Your Image" style="float: left; margin-right: 20px; width: 150px; height: auto;">
     <p>Here are some of the skills I possess:</p>
     <ul>
         <li>Java</li>
