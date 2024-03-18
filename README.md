@@ -47,7 +47,12 @@
         }
 
     
-
+/* Style the LinkedIn icon */
+        .linkedin-icon {
+            width: 30px; /* Adjust the size as needed */
+            height: auto;
+            margin-right: 20px; /* Add some spacing */
+        }
 
 /* Center and style the footer */
         footer {
@@ -63,7 +68,9 @@
 
 <nav>
     <a href="#about">About</a>
-    
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
 </nav>
 
 <section id="about">
@@ -73,7 +80,64 @@
          
       </div>
 </section>
-  
+
+<section id="skills">
+    <h2>Skills</h2>
+      <div class="project">
+         
+    <p>Here are some of the skills I possess:</p>
+    <ul>
+        <li>Java</li>
+        <li>Kotlin</li>
+        <li>Android SDK</li>
+        <li>XML</li>
+        <li>RESTful APIs</li>
+        <!-- Add more skills as needed -->
+    </ul>
+          
+</div>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+        <h2>Project 1</h2>
+        <p>Description of Project 1</p>
+    </div>
+    <div class="project">
+        <h2>Project 2</h2>
+        <p>Description of Project 2</p>
+    </div>
+    <!-- Add more projects as needed -->
+</section>
+
+
+
+
+
+
+<section id="contact">
+    <h2>Contact Me</h2>
+<div class="project">
+    <p>If you'd like to get in touch, feel free to email me at <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
+<!-- LinkedIn Icon with Profile Link -->
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+        <img src="linkedin_icon.png" alt="LinkedIn" width="40" height="40">
+    </a>
+<!-- GitHub Icon with Profile Link -->
+    <a href="https://github.com/your-github-profile" target="_blank">
+        <img src="github_icon.png" alt="GitHub" width="40" height="40">
+    </a>
+<!-- Medium Icon with Blog Link -->
+    <a href="https://medium.com/@your-medium-profile" target="_blank">
+        <img src="medium_icon.png" alt="Medium" width="40" height="40">
+    </a>
+<!-- Email Icon with Email Link -->
+    <a href="mailto:yourname@example.com" target="_blank">
+        <img src="email_icon.png" alt="Email" width="40" height="40">
+    </a>
+  </div> 
+</section>
 
 <footer>
     <p>&copy; 2024. All Rights Reserved. </p>
