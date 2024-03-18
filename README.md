@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,15 +16,13 @@
             color: #000; /* Change text color to white */
         }
         nav {
+            #background-color: #000;
+            #color: #fff;
+            #padding: 20px 0;
             text-align: center;
             border-radius: 10px; /* Curved corners */
             font-size: 20px;
             font-weight: bold;
-            display: flex;
-            align-items: center; /* Center items vertically */
-            justify-content: space-between; /* Space elements evenly */
-            padding: 10px 20px; /* Add padding */
-            background-color: #fff; /* Set background color of nav */
         }
         nav a {
             text-decoration: none;
@@ -32,11 +30,7 @@
             margin: 0 10px;
         }
         nav a:hover {
-            color: #00f; /* Change link color on hover */
-        }
-        .logo img {
-            width: 50px; /* Adjust logo size as needed */
-            height: auto;
+            color: #fff; /* Change link color to green on hover */
         }
         section {
             padding: 20px;
@@ -51,9 +45,19 @@
         .project h1 {
             margin-top: 0;
         }
+
+    
+/* Style the LinkedIn icon */
+        .linkedin-icon {
+            width: 30px; /* Adjust the size as needed */
+            height: auto;
+            margin-right: 20px; /* Add some spacing */
+        }
+
+/* Center and style the footer */
         footer {
-            text-align: center;
-            padding: 10px 0;
+           text-align: center;
+             padding: 10px 0;
             background-color: #000;
             color: #fff;
             border-radius: 10px; /* Curved corners */
@@ -63,37 +67,35 @@
 <body>
 
 <nav>
-    <div class="logo">
-        <img src="r.png" alt="Logo">
-    </div>
-    <div class="nav-links">
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-    </div>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
 </nav>
 
 <section id="about">
     <h2>About Me</h2>
-    <div class="project">
-        <p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
-    </div>
+      <div class="project">
+<p>Welcome! I'm passionate about creating innovative and user-friendly applications.</p>
+         
+      </div>
 </section>
 
 <section id="skills">
     <h2>Skills</h2>
-    <div class="project">
-        <p>Here are some of the skills I possess:</p>
-        <ul>
-            <li>Java</li>
-            <li>Kotlin</li>
-            <li>Android SDK</li>
-            <li>XML</li>
-            <li>RESTful APIs</li>
-            <!-- Add more skills as needed -->
-        </ul>
-    </div>
+      <div class="project">
+         
+    <p>Here are some of the skills I possess:</p>
+    <ul>
+        <li>Java</li>
+        <li>Kotlin</li>
+        <li>Android SDK</li>
+        <li>XML</li>
+        <li>RESTful APIs</li>
+        <!-- Add more skills as needed -->
+    </ul>
+          
+</div>
 </section>
 
 <section id="projects">
@@ -109,27 +111,32 @@
     <!-- Add more projects as needed -->
 </section>
 
+
+
+
+
+
 <section id="contact">
     <h2>Contact Me</h2>
-    <div class="project">
-        <p>If you'd like to get in touch, feel free to email me at <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
-        <!-- LinkedIn Icon with Profile Link -->
-        <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-            <img src="linkedin_icon.png" alt="LinkedIn" width="40" height="40">
-        </a>
-        <!-- GitHub Icon with Profile Link -->
-        <a href="https://github.com/your-github-profile" target="_blank">
-            <img src="github_icon.png" alt="GitHub" width="40" height="40">
-        </a>
-        <!-- Medium Icon with Blog Link -->
-        <a href="https://medium.com/@your-medium-profile" target="_blank">
-            <img src="medium_icon.png" alt="Medium" width="40" height="40">
-        </a>
-        <!-- Email Icon with Email Link -->
-        <a href="mailto:yourname@example.com" target="_blank">
-            <img src="email_icon.png" alt="Email" width="40" height="40">
-        </a>
-    </div>
+<div class="project">
+    <p>If you'd like to get in touch, feel free to email me at <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
+<!-- LinkedIn Icon with Profile Link -->
+    <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+        <img src="linkedin_icon.png" alt="LinkedIn" width="40" height="40">
+    </a>
+<!-- GitHub Icon with Profile Link -->
+    <a href="https://github.com/your-github-profile" target="_blank">
+        <img src="github_icon.png" alt="GitHub" width="40" height="40">
+    </a>
+<!-- Medium Icon with Blog Link -->
+    <a href="https://medium.com/@your-medium-profile" target="_blank">
+        <img src="medium_icon.png" alt="Medium" width="40" height="40">
+    </a>
+<!-- Email Icon with Email Link -->
+    <a href="mailto:yourname@example.com" target="_blank">
+        <img src="email_icon.png" alt="Email" width="40" height="40">
+    </a>
+  </div> 
 </section>
 
 <footer>
